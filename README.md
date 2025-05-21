@@ -48,8 +48,6 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
     </tbody>
 </table>
 
-<br><br>
-
 <table cellpadding="40">
     <tbody>
     <tr>
@@ -78,9 +76,9 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
 
 
 
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebbsgithub" alt="rebbsgithub" /></a> </p>
-
+-->
 
 
 
