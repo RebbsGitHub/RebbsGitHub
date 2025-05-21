@@ -34,7 +34,7 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
         <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </td>
         <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </td>
-        <td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/logo_dark.svg" alt="GodotEngine" width="40" height="40"/> </a></td>
+        <td align="center"><a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/press/icon_color.svg" alt="GodotEngine" width="40" height="40"/> </a></td>
     </tr>
     <tr>
         <td align="center">HTML</td>
