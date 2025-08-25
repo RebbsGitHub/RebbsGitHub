@@ -6,7 +6,7 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
 
 - 🎮 As a side project i'm developing **Videogames as a solo-dev**
 
-- 🌱 I’m currently learning **Game Engines and JS Libraries**
+- 🌱 I’m currently learning **Game Engine Languages and JS Libraries**
 
 - 👨‍💻 All of my projects are avaiable on [my GitHub profile](https://github.com/RebbsGitHub?tab=repositories)
 
@@ -25,6 +25,7 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
         <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></td>
         <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </td>
         <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </td>
+        <td align="center"><a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a></td>
         <td align="center"><a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/press/icon_color.svg" alt="GodotEngine" width="40" height="40"/> </a></td>
     </tr>
     <tr>
@@ -34,6 +35,7 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
         <td align="center">JavaScript</td>
         <td align="center">NodeJS</td>
         <td align="center">ReactJS</td>
+        <td align="center">C++</td>
         <td align="center">Godot</td>
     </tr>
     </tbody>
