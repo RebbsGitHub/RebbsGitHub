@@ -2,11 +2,11 @@
 
 I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Science for Digital Communication at the State University of Milan. I'm currently working on some personal projects and studyng new libraries and programming languages as a self-taught.
 
-- 🔭 I’m currently working on [developing a Online Tools](www.aaa)
+- 🔭 I’m currently working on [developing a Online Tools](https://github.com/RebbsGitHub/Confetturer)
 
 - 🎮 As a side project i'm developing **Videogames as a solo-dev**
 
-- 🌱 I’m currently learning **some more JavaScript Libraries**
+- 🌱 I’m currently learning **Game Engines and JS Libraries**
 
 - 👨‍💻 All of my projects are avaiable on [my GitHub profile](https://github.com/RebbsGitHub?tab=repositories)
 
