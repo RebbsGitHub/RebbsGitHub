@@ -8,17 +8,8 @@ I'm a junior dev from Italy.<br> I attended a batchelor's degree in Computer Sci
 
 - 🌱 I’m currently learning **some more JavaScript Libraries**
 
-- 👨‍💻 All of my projects will be available soon on [my GitHub profile](https://github.com/RebbsGitHub?tab=repositories)
+- 👨‍💻 All of my projects are avaiable on [my GitHub profile](https://github.com/RebbsGitHub?tab=repositories)
 
-<!-- 
-- 💬 Ask me about **as**
-
-- 📫 How to reach me **as**
-
-- 📄 Know about my experiences [as](as)
-
-- ⚡ Fun fact **as**
- -->
 
 
 
